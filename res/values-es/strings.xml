@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Taj">que</string>
+    <string name="Guru">profesor</string>
+    <string name="Machu">machu</string>
+    <string name="SFO">sfo</string>
+
+    
+
+</resources>

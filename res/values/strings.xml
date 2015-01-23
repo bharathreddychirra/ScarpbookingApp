@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Taj">Taj</string>
+    <string name="Guru">Guru</string>
+    <string name="Machu">Machu</string>
+    <string name="SFO">SFO</string>
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="golden_bridge">Golden Bridge</string>
+    <string name="machu_pichu">Machu Pichu</string>
+    <string name="golden_temple">Golden Temple</string>
+
+    
+
+</resources>
